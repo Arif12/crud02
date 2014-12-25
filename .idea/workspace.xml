@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be0a82c7-c75c-43a0-95e0-e6a1c30a11f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/add.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/create.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/crud02.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/c_of_crud/add_email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/c_of_crud/create_email.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/c_of_crud/create_email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/c_of_crud/list_email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="crud02.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,12 +31,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="create.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="create.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/create.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08741259" vertical-offset="0" max-vertical-offset="858">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="165">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_email.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/c_of_crud/create_email.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_email.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/c_of_crud/add_email.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <marker date="1419497777571" expanded="true" signature="121:177" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_email.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/c_of_crud/list_email.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8301527" vertical-offset="0" max-vertical-offset="600">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <marker date="1419497988207" expanded="true" signature="91:110" placeholder="SELECT * FRO..email..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/add.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="27" />
               <folding>
                 <marker date="1419489103547" expanded="true" signature="129:193" placeholder="INSERT INTO ..." />
                 <marker date="1419489103547" expanded="true" signature="129:194" placeholder="INSERT INTO ..." />
@@ -64,8 +92,8 @@
       <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="570">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="570">
+              <caret line="1" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="30" />
               <folding>
                 <marker date="1419488193275" expanded="true" signature="91:109" placeholder="SELECT * FRO..user..." />
               </folding>
@@ -88,8 +116,8 @@
       <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="705">
-              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="705">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <marker date="1419488477559" expanded="true" signature="110:145" placeholder="SELECT * FRO..user..." />
               </folding>
@@ -115,6 +143,10 @@
         <option value="$PROJECT_DIR$/delete.php" />
         <option value="$PROJECT_DIR$/view.php" />
         <option value="$PROJECT_DIR$/add.php" />
+        <option value="$PROJECT_DIR$/c_of_crud/create_email.php" />
+        <option value="$PROJECT_DIR$/c_of_crud/create_email.html" />
+        <option value="$PROJECT_DIR$/c_of_crud/add_email.php" />
+        <option value="$PROJECT_DIR$/c_of_crud/list_email.php" />
       </list>
     </option>
   </component>
@@ -170,6 +202,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crud02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crud02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="c_of_crud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -203,6 +249,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="be0a82c7-c75c-43a0-95e0-e6a1c30a11f6" name="Default" comment="" />
@@ -224,7 +273,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -254,7 +303,15 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/view.php</url>
+          <line>25</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -270,18 +327,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="705">
-          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="705">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <marker date="1419488477559" expanded="true" signature="110:145" placeholder="SELECT * FRO..user..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/c_of_crud/create_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18783543" vertical-offset="0" max-vertical-offset="559">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="165">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c_of_crud/create_email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="570">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="570">
+          <caret line="1" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="30" />
           <folding>
             <marker date="1419488193275" expanded="true" signature="91:109" placeholder="SELECT * FRO..user..." />
           </folding>
@@ -291,7 +372,7 @@
     <entry file="file://$PROJECT_DIR$/add.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="27" />
           <folding>
             <marker date="1419489103547" expanded="true" signature="129:193" placeholder="INSERT INTO ..." />
             <marker date="1419489103547" expanded="true" signature="129:194" placeholder="INSERT INTO ..." />
@@ -300,11 +381,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/create.html">
+    <entry file="file://$PROJECT_DIR$/c_of_crud/add_email.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08741259" vertical-offset="0" max-vertical-offset="858">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <marker date="1419497777571" expanded="true" signature="121:177" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c_of_crud/list_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8301527" vertical-offset="0" max-vertical-offset="600">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <marker date="1419497988207" expanded="true" signature="91:110" placeholder="SELECT * FRO..email..." />
+          </folding>
         </state>
       </provider>
     </entry>
